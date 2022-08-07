@@ -1,0 +1,26 @@
+JP or SP or CP
+JA or SA or CA
+JM or SM or CM
+JP or JA or JM
+SP or SA or SM
+CP or CA or CM
+notJP or notSP
+notJP or notCP
+notSP or notCP
+notJA or notSA
+notJA or notCA
+notSA or notCA
+notJM or notSM
+notJM or notCM
+notSM or notCM
+notJP or notJA
+notJP or notJM
+notJA or notJM
+notSP or notSM
+notSA or notSM
+notCP or notCA
+notCP or notCM
+notCA or notCM
+notJP
+notJM
+notSM
