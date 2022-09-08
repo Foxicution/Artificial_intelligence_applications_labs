@@ -1,0 +1,101 @@
+JP or SP or CP
+JA or SA or CA
+JM or CM or SM
+JM or JA or JP
+SA or SP or SM
+CA or CM or CP
+notJP or notSP
+notJP or notCP
+notSP or notCP
+notJA or notSA
+notJA or notCA
+notSA or notCA
+notJM or notSM
+notJM or notCM
+notCM or notSM
+notJP or notJA
+notJP or notJM
+notJA or notJM
+notSP or notSM
+notSM or notSA
+notCP or notCA
+notCM or notCP
+notCM or notCA
+notJP
+notJM
+notSM
+JM or notSP or JA Parents:(6, 3)
+JM or notCP or JA Parents:(7, 3)
+SM or SA or notCP Parents:(8, 4)
+CA or notSP or CM Parents:(8, 5)
+JM or JP or notSA Parents:(9, 3)
+notJA or SP or SM Parents:(9, 4)
+JM or JP or notCA Parents:(10, 3)
+notJA or CM or CP Parents:(10, 5)
+SP or SM or notCA Parents:(11, 4)
+CP or CM or notSA Parents:(11, 5)
+JA or JP or notCM Parents:(13, 3)
+SA or notCM or SP Parents:(14, 4)
+notJA or SP or CP Parents:(15, 0)
+notJA or CM or SM Parents:(17, 2)
+JM or notSP or CM Parents:(18, 2)
+JM or CM or notSA Parents:(19, 2)
+JP or SP or notCA Parents:(20, 0)
+JA or SA or notCP Parents:(20, 1)
+SM or JM or notCP Parents:(21, 2)
+JP or notCM or SP Parents:(21, 0)
+JM or SM or notCA Parents:(22, 2)
+JA or SA or notCM Parents:(22, 1)
+SP or CP Parents:(23, 0)
+JM or JA Parents:(23, 3)
+CM or SM Parents:(24, 2)
+JA or JP Parents:(24, 3)
+JM or CM Parents:(25, 2)
+SA or SP Parents:(25, 4)
+JA or notSP or notCM Parents:(26, 13)
+JA or notSP Parents:(26, 24)
+JM or notSP or notSA Parents:(26, 9)
+JM or notSP or notCA Parents:(26, 10)
+JA or notCP Parents:(27, 24)
+notSA or JM or notCP Parents:(27, 9)
+SA or notCP Parents:(28, 25)
+notJA or notCP or SM Parents:(28, 9)
+notJA or notSP or CM Parents:(29, 10)
+notSP or CM or notSA Parents:(29, 11)
+JP or notCM or notSA Parents:(30, 13)
+JP or notSA Parents:(30, 24)
+JM or notSA Parents:(30, 23)
+JM or JP or SP or SM Parents:(30, 4)
+notJA or notCM or SP Parents:(31, 14)
+notJA or SP Parents:(31, 25)
+JP or notCA Parents:(32, 24)
+JM or notCA Parents:(32, 23)
+SP or notCA Parents:(34, 25)
+JA or notCM Parents:(36, 23)
+notJA or CM Parents:(39, 25)
+notSP or CM Parents:(40, 24)
+CM or notSA Parents:(41, 24)
+JM or notCP Parents:(44, 25)
+notCP or SM Parents:(44, 24)
+notCM or SP Parents:(45, 23)
+SM or notCA Parents:(46, 24)
+JM or SP or SM Parents:(48, 44)
+JA Parents:(49, 24)
+JP or SP or SM Parents:(50, 45)
+CM Parents:(50, 25)
+JM or JP or SP Parents:(52, 45)
+notCM or notSP or notSA Parents:(54, 9)
+notSP or notSA Parents:(55, 9)
+notSP or notCA Parents:(55, 10)
+notSA or notCP Parents:(58, 9)
+notJA or notCP Parents:(60, 9)
+notCM or notSA Parents:(64, 23)
+notSA Parents:(65, 23)
+JP or SP Parents:(65, 53)
+JP or notCP Parents:(65, 60)
+JM or SP Parents:(66, 53)
+SP or notCP Parents:(69, 58)
+notCA Parents:(70, 23)
+notCP Parents:(77, 24)
+SP or SM Parents:(78, 48)
+SP Parents:(82, 69)

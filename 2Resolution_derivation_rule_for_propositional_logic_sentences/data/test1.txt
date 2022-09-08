@@ -1,0 +1,2 @@
+A or B or notC
+notC or notB or A or D
